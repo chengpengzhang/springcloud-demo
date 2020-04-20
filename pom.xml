@@ -45,8 +45,8 @@
     </distributionManagement>
     <scm>
         <url>https://github.com/chengpengzhang/springcloud-demo.git</url>
-        <connection>git@github.com:chengpengzhang/springcloud-demo.git</connection>
-        <developerConnection>git@github.com:chengpengzhang/springcloud-demo.git</developerConnection>
+        <connection>scm:git:git@github.com:chengpengzhang/springcloud-demo.git</connection>
+        <developerConnection>scm:git:git@github.com:chengpengzhang/springcloud-demo.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     <build>
