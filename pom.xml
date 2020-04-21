@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.tal</groupId>
     <artifactId>springcloud-demo</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -45,7 +45,7 @@
         <url>https://github.com/chengpengzhang/springcloud-demo.git</url>
         <connection>scm:git:git@github.com:chengpengzhang/springcloud-demo.git</connection>
         <developerConnection>scm:git:git@github.com:chengpengzhang/springcloud-demo.git</developerConnection>
-        <tag>springcloud-demo-1.1</tag>
+        <tag>springcloud-demo-1.1.1</tag>
     </scm>
     <build>
         <plugins>
