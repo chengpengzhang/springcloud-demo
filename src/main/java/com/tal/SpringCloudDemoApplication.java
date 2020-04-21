@@ -7,7 +7,7 @@ package com.tal;
 
 /**
  * <pre>
- *    启动类
+ *    启动类.
  * </pre>
  *
  * @version $Id: SpringCloudDemoApplication.java, v1.0 2020/4/20 11:41 zcp Exp $
