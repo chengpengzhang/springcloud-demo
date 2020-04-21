@@ -1,5 +1,5 @@
 {
-  "name": "tal-storage",
+  "name": "springcloud-demo",
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
@@ -14,6 +14,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.corp.talcloud.com:tal-storage/tal-storage.git"
+    "url": "git@github.com:chengpengzhang/springcloud-demo.git"
   }
 }
